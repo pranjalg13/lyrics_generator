@@ -1,2 +1,2 @@
 # lyrics_generator
-An AI program that generates lyrics of an artist according to his/her singing style
+An AI program that generates lyrics of an artist according to his/her singing style and selection of words
